@@ -3,7 +3,7 @@
 **Institution:** Shanghai Jiao Tong University  
 **Fields:** Cognitive Neuroscience, Artificial Intelligence for Neuroscience  
 **Google Scholar:** [Tingjuntao Ni](https://scholar.google.com.hk/citations?user=VfNsVXIAAAAJ&hl=zh-CN)  
-**Open Review:** https://openreview.net/profile?id=%7ETingjuntao_Ni1
+**OpenReview:** https://openreview.net/profile?id=%7ETingjuntao_Ni1
 
 
 ---
