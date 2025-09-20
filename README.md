@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tingjuntao Ni, PhD Student
 
-**Institution:** Shanghai Jiao Tong University, Shanghai Innovation Institute  
+**Institution:** 1. Shanghai Jiao Tong University 2. Shanghai Innovation Institute  
 **Fields:** Cognitive Neuroscience, Artificial Intelligence for Neuroscience  
 **Google Scholar:** [Tingjuntao Ni](https://scholar.google.com.hk/citations?user=VfNsVXIAAAAJ&hl=zh-CN)  
 **OpenReview:** https://openreview.net/profile?id=%7ETingjuntao_Ni1
